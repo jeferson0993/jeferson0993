@@ -1,7 +1,4 @@
-
-# <a href=""> Hi there 👋, my name is Jeferson </a>
-### I am a web developer and self-learner;
-![Programming](https://user-images.githubusercontent.com/29678099/89740613-ab11af80-da60-11ea-9754-7d489e2096a1.gif)
+<img src="header.svg" width="800" height="400">
 
 #### <a href="">Social</a>
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/jeferson0993)
