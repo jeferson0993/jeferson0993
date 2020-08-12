@@ -29,6 +29,8 @@
 #### <a href="">Tools</a>
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/debian.svg' alt='debian' height='40'>](#)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/visualstudiocode.svg' alt='vscode' height='40'>](#)
+[<img src='platformio.svg' alt='platformio' height='40'>](#)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/arduino.svg' alt='git' height='40'>](#)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/webstorm.svg' alt='webstorm' height='40'>](#)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/firefox.svg' alt='firefox' height='40'>](#)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/insomnia.svg' alt='insomnia' height='40'>](#)
