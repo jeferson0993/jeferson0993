@@ -27,14 +27,14 @@
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/mongodb.svg' alt='mongodb' height='40'>](#)
 
 #### <a href="">Tools</a>
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/debian.svg' alt='debian' height='40'>](#)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/debian.svg' alt='debian linux' height='40'>](#)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/visualstudiocode.svg' alt='vscode' height='40'>](#)
 [<img src='platformio.svg' alt='platformio' height='40'>](#)
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/arduino.svg' alt='git' height='40'>](#)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/arduino.svg' alt='arduino' height='40'>](#)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/webstorm.svg' alt='webstorm' height='40'>](#)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/firefox.svg' alt='firefox' height='40'>](#)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/insomnia.svg' alt='insomnia' height='40'>](#)
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gitkraken.svg' alt='git' height='40'>](#)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gitkraken.svg' alt='gitkraken' height='40'>](#)
 
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='50' height='50'></a>
 
