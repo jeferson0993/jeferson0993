@@ -1,11 +1,11 @@
-<img src="https://raw.githubusercontent.com/jeferson0993/jeferson0993/master/header.svg" width="800" height="400">
+<img src="https://raw.githubusercontent.com/jeferson0993/jeferson0993/master/header.svg" alt='profile-header' width="800" height="400">
 
 #### <a href="">Social</a>
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/jeferson0993)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github profile' height='40'>](https://github.com/jeferson0993)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/jeferson-ferreira-4a036b143/)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>](https://codepen.io/jeferson0993)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/11685875/jeferson-ferreira)
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](http://www.jeferson.tk)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='my website' height='40'>](http://www.jeferson.tk)  
 
 #### <a href="">FrontEnd</a>
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/angularjs.svg' alt='angularjs' height='40'>](https://github.com/jeferson0993/jeferson0993-crud-angularjs-firebase)
@@ -29,14 +29,16 @@
 #### <a href="">Tools</a>
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/debian.svg' alt='debian linux' height='40'>](#)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/visualstudiocode.svg' alt='vscode' height='40'>](#)
-[<img src='platformio.svg' alt='platformio' height='40'>](#)
+[<img src='https://raw.githubusercontent.com/jeferson0993/jeferson0993/master/platformio.svg' alt='platformio' height='40'>](#)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/arduino.svg' alt='arduino' height='40'>](#)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/webstorm.svg' alt='webstorm' height='40'>](#)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/firefox.svg' alt='firefox' height='40'>](#)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/insomnia.svg' alt='insomnia' height='40'>](#)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gitkraken.svg' alt='gitkraken' height='40'>](#)
 
-<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='50' height='50'></a>
+<a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='50' height='50'></a>
+<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a>
+<a href="https://docs.github.com/en/developers" target="_blank"><img src="https://raw.githubusercontent.com/acervenky/acervenky/master/assets/devbadge.gif" width="40" height="40"></a>
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=jeferson0993&show_icons=true)
 
