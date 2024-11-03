@@ -10,7 +10,6 @@ I'm a web developer with extensive experience in JavaScript/Typescript, working 
 <code>[![Angular][Angular.io]][Angular-url]</code>
 <code>[![Svelte][Svelte.dev]][Svelte-url]</code>
 <code>[![JQuery][JQuery.com]][JQuery-url]</code>
-<code>[![FP ts][FP-ts]][FP-ts-url]</code>
 
 ## 📝 My Blog posts
 <code>[![dev.to][dev.to]][devto-url]</code>
@@ -32,8 +31,6 @@ I'm a web developer with extensive experience in JavaScript/Typescript, working 
 [devto-url]: https://dev.to/jeferson0993
 [medium]: https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white
 [medium-url]: https://medium.com/@jeferson0993
-[FP-ts]: https://img.shields.io/badge/Functional%20Programming-FFFFFF?style=for-the-badge
-[FP-ts-url]: https://gcanti.github.io/fp-ts/
 
 <!---
 jeferson0993/jeferson0993 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
