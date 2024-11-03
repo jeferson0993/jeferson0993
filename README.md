@@ -4,12 +4,12 @@ I'm a web developer with extensive experience in JavaScript/Typescript, working 
 
 ## 🚀 My Skills
 
-<code>[![tailwind css][tailwindui.com]][tailwind-url]</code>
 <code>[![React][React.js]][React-url]</code>
 <code>[![Vue][Vue.js]][Vue-url]</code>
 <code>[![Angular][Angular.io]][Angular-url]</code>
 <code>[![Svelte][Svelte.dev]][Svelte-url]</code>
 <code>[![JQuery][JQuery.com]][JQuery-url]</code>
+<code>[![tailwind css][tailwindui.com]][tailwind-url]</code>
 
 ## 📝 My Blog posts
 <code>[![dev.to][dev.to]][devto-url]</code>
