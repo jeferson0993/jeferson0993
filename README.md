@@ -29,8 +29,8 @@ I'm a web developer with extensive experience in JavaScript/Typescript, working 
 [JQuery-url]: https://jquery.com 
 [dev.to]: https://img.shields.io/badge/Dev%20Community-000000?style=for-the-badge&logo=devdotto&logoColor=white
 [devto-url]: https://dev.to/jeferson0993
-[medium]: https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white
-[medium-url]: https://medium.com/@jeferson0993
+[medium]: https://img.shields.io/badge/Linkedin-0769AD?style=for-the-badge&logo=linkedin&logoColor=white
+[medium-url]: https://www.linkedin.com/in/jeferson0993
 
 <!---
 jeferson0993/jeferson0993 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
